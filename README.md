@@ -1,6 +1,12 @@
 # Delivery in 0.8 Seconds
 
 A 15-second, 100% procedural Blender Python film for the RenderJuice "Speed" contest.
+
+- Video: https://youtu.be/EgwntXBSEVE
+- Devpost: https://devpost.com/software/delivery-in-0-8-seconds
+
+![Empty box](media/3_empty_box.jpg)
+
 A delivery drone races through a dusk city and drops its box in 0.8 s. The box is empty.
 
 - `delivery.py` – builds and animates the whole scene headless (bpy 5.2, EEVEE)
